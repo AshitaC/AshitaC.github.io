@@ -4,7 +4,7 @@
 
 ## Education
 - M.S.., Computer Science | Boise State University (USA)								       		
-- M.S., Electrical & Computer Engineering 	| Indian Institute of Technology (India)	 			        		
+- M.S., Electrical & Computer Engineering | Indian Institute of Technology (India)	 			        		
 - B.S., Electronics Engineering | Univeristy of Rajasthan (India)
 
 <!--# ## Work Experience
@@ -19,6 +19,12 @@
 ## Projects
 ### **Trust-Based News Recommender**
 ### **Business Insights 360 Dashboard**
+Business Insights 360 — an end-to-end Power BI dashboard that unifies finance, sales, marketing and supply chain analytics. Built using Power Query and advanced DAX, the dashboard includes a dynamic P&L engine, customer & product profitability matrices, forecasting accuracy analysis, and an executive summary for leadership reviews.
+[Details ](https://github.com/AshitaC/PowerBI---Business-Insights)
+
+[Business Insights 360 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzc2ZTNjNTgtNDg0OC00NjFlLThmNjAtMDFmNmI3ZDVlYWM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
 
 <!--
 ### Data-Driven EEG Band Discovery with Decision Trees
