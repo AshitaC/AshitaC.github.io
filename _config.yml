@@ -1,0 +1,6 @@
+# add the following to _config.yml file
+title: Ashita Chandnani
+#logo: /assets/img/headshot.png
+#description: Machine Learning Engineer
+#show_downloads: true
+theme: jekyll-theme-minimal
