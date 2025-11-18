@@ -23,8 +23,8 @@
 I implemented FANAR, a trust-based misinformation-aware news recommender system in PyTorch using HuggingFace transformers for my master’s project at Boise State University, focusing on BERT-based content embeddings, user reliability modeling, and attention-driven user representation to mitigate misinformation exposure. This work is submitted to ECIR 2026 and validates the original model’s performance on public benchmarks, introduces simplified reproducibility pipelines, and studies the impact of trustworthy vs. all neighbors in user aggregation. This project reflects my interest in **ethical AI, NLP, model interpretability, and real-world recommender system design.
 
 [Details](https://github.com/AshitaC/Misinformation-Aware-News-Recommender-System)
-![ModelOverview](/assets/img/FinanceView.png)
-![ModelArchitecture](/assets/img/FinanceView.png)
+![ModelOverview](/assets/img/ModelOverview.png)
+![ModelArchitecture](/assets/img/ModelArchitecture.png)
 
 ### **Business Insights 360 Dashboard**
 Business Insights 360 — an end-to-end Power BI dashboard that unifies finance, sales, marketing and supply chain analytics. Built using Power Query and advanced DAX, the dashboard includes a dynamic P&L engine, customer & product profitability matrices, forecasting accuracy analysis, and an executive summary for leadership reviews.
