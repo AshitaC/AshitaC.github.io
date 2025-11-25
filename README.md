@@ -28,6 +28,22 @@ I implemented FANAR, a trust-based misinformation-aware news recommender system 
 
 ![ModelOverview](/assets/img/ModelOverview.png) ![ModelArchitecture](/assets/img/ModelArchitecture.png)
 
+---------------
+
+
+### **Financial KPI Extractor | Python, LangChain, Streamlit, Llama 3**
+- Engineered a **Generative AI** application to parse unstructured news articles and extract Revenue/EPS metrics with high precision.
+- Implemented **LangChain chains** and custom System **Prompts** to enforce strict JSON output formatting from the **Llama 3.3** model.
+- Developed a responsive **Streamlit** frontend featuring side-by-side **Plotly** visualizations and CSV data export for financial analysis.
+- Deployed the full-stack application to the cloud, utilizing **Groq API** for low-latency text processing. [Details ](https://github.com/AshitaC/financial-kpi-extractor)
+
+[Financial KPI Extractor App](https://financial-kpi-extractor.streamlit.app/) 
+
+<img width="733" height="736" alt="image" src="https://github.com/user-attachments/assets/b64e0beb-da26-4cf3-9b99-b842f2077f23" />
+<img width="733" height="389" alt="image" src="https://github.com/user-attachments/assets/f82c0022-653b-4b91-bbc4-52a2c87b210e" />
+
+
+----------------------
 ### **Business Insights 360 Dashboard**
 Business Insights 360 — an end-to-end Power BI dashboard that unifies finance, sales, marketing and supply chain analytics. Built using Power Query and advanced DAX, the dashboard includes a dynamic P&L engine, customer & product profitability matrices, forecasting accuracy analysis, and an executive summary for leadership reviews.
 [Details ](https://github.com/AshitaC/PowerBI---Business-Insights)
