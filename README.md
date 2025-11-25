@@ -1,6 +1,8 @@
 # MS Computer Science - AI & ML
 
+
 #### Technical Skills: Python, SQL, PyTorch, NLP, LLMs, LangChain, RAG
+
 
 ## Education
 - **M.S., Computer Science** | Boise State University (USA)
@@ -23,10 +25,13 @@
 
 ---
 
-### Trust-aware Neural News Recommender (FANAR)
+### Trust-aware Neural News Recommender | PyTorch, BERT, HuggingFace
 **[GitHub Repository](https://github.com/AshitaC/Misinformation-Aware-News-Recommender-System)**
 
-I implemented FANAR, a trust-based misinformation-aware news recommender system in PyTorch using HuggingFace transformers for my master’s project. This work focuses on BERT-based content embeddings and attention-driven user representation to mitigate misinformation exposure.
+*  Developed a trust-based recommender system in **PyTorch** using **HuggingFace Transformers**, focusing on ethical AI and misinformation mitigation.
+*  Integrated **BERT**-based content embeddings and **Attention Mechanisms** to create robust user representations that prioritize reliable news sources.
+*  Validated model performance on public benchmarks and established reproducible pipelines for the research community.
+*  **Publication**: Work submitted to **ECIR 2026** (The 48th European Conference on Information Retrieval).
 
 **Publication:**
 A. Chandnani, M. S. Ahmed, and F. Spezzano. "Reproducibility of FANAR: Adapting a Trust-based News Recommender for Fake News Mitigation to Public Benchmarks." Submitted to **ECIR 2026**.
@@ -35,15 +40,16 @@ A. Chandnani, M. S. Ahmed, and F. Spezzano. "Reproducibility of FANAR: Adapting 
 
 ---
 
-### Business Insights 360 Dashboard
+### Business Insights 360 Dashboard | Power BI, SQL, DAX
 **[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzc2ZTNjNTgtNDg0OC00NjFlLThmNjAtMDFmNmI3ZDVlYWM2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) | [GitHub Repository](https://github.com/AshitaC/PowerBI---Business-Insights)**
 
-An end-to-end Power BI dashboard that unifies finance, sales, marketing, and supply chain analytics. Built using Power Query and advanced DAX, the dashboard includes a dynamic P&L engine, customer & product profitability matrices, and forecasting accuracy analysis.
+* Designed an end-to-end business intelligence solution unifying Finance, Sales, Marketing, and Supply Chain analytics using **Power BI**.
+* Engineered complex data transformations with **Power Query** and utilized advanced **DAX** functions to drive calculated measures.
+* Built a dynamic **P&L engine** and profitability matrices to enable granular analysis of customer and product performance.
+* Implemented forecasting accuracy modules and executive summary views to facilitate data-driven strategic planning.
 
 ![Finance View](/assets/img/FinanceView.png)
 
 ---
 
-## Skills
-- **Languages & Frameworks:** Python, PyTorch, TensorFlow
-- **Domains:** NLP, LLMs, Recommender Systems, Generative AI
+
