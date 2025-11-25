@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ashita's Portfolio</title>
     <style>
-        /* CSS Styles - Makes the site look good */
+        /* CSS Styles */
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             margin: 0;
@@ -15,13 +15,25 @@
             line-height: 1.6;
         }
         header {
-            background-color: #004e82; /* Your Corporate Blue */
+            background-color: #004e82; /* Corporate Blue */
             color: white;
-            padding: 2rem 0;
+            padding: 3rem 0; /* Increased padding for the photo */
             text-align: center;
         }
+        
+        /* --- NEW PROFILE IMAGE STYLES --- */
+        .profile-img {
+            width: 150px;       /* Size of the image */
+            height: 150px;
+            border-radius: 50%; /* Makes it a circle */
+            border: 4px solid white; /* White ring around the photo */
+            object-fit: cover;  /* Ensures the photo doesn't look squashed */
+            margin-bottom: 15px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.3); /* Shadow for depth */
+        }
+        
         header h1 { margin: 0; font-size: 2.5rem; }
-        header p { font-size: 1.2rem; opacity: 0.9; }
+        header p { font-size: 1.2rem; opacity: 0.9; margin-top: 5px; }
         
         .container {
             max-width: 900px;
@@ -46,7 +58,7 @@
             transition: transform 0.2s;
         }
         .project-card:hover {
-            transform: translateY(-5px); /* Slight lift effect */
+            transform: translateY(-5px);
         }
         .project-title {
             font-size: 1.5rem;
@@ -88,6 +100,9 @@
 <body>
 
     <header>
+        <!-- REPLACE 'profile.jpg' WITH YOUR EXACT FILE NAME -->
+        <img src="assets/img/headshot.png" alt="Ashita C." class="profile-img">
+        
         <h1>Ashita C.</h1>
         <p>Data Enthusiast | Python Developer | AI Explorer</p>
     </header>
@@ -104,9 +119,8 @@
         <!-- Projects Section -->
         <h2 class="section-title">Featured Projects</h2>
 
-        <!-- Project 1: Your Finance App -->
         <div class="project-card">
-            <h3 class="project-title">Financial KPI Extractor</h3>
+            <h3 class="project-title">📊 Financial KPI Extractor</h3>
             <p>
                 An AI-powered tool that automatically reads unstructured financial news and extracts 
                 Revenue and EPS data (Actual vs. Expected). Built with LangChain and Llama 3.
@@ -120,17 +134,15 @@
                 <span class="badge">Plotly</span>
             </div>
 
-            <!-- PASTE YOUR STREAMLIT APP LINK BELOW in href="" -->
-            <a href="https://financial-kpi-extractor.streamlit.app/" target="_blank" class="btn"> View Live App</a>
-            
-            <!-- PASTE YOUR GITHUB REPO LINK BELOW -->
-            <a href="https://github.com/AshitaC/financial-kpi-extractor" target="_blank" class="btn" style="background-color: #333;"> View Code</a>
+            <!-- Links to your specific app -->
+            <a href="https://financial-kpi-extractor.streamlit.app/" target="_blank" class="btn">🚀 View Live App</a>
+            <a href="https://github.com/AshitaC/financial-kpi-extractor" target="_blank" class="btn" style="background-color: #333;">💻 View Code</a>
         </div>
 
     </div>
 
     <footer>
-        <p>© 2025 Ashita C. | Hosted on GitHub Pages</p>
+        <p>© 2024 Ashita C. | Hosted on GitHub Pages</p>
     </footer>
 
 </body>
