@@ -25,7 +25,6 @@
 *   Developed a **production-ready interface** using **Streamlit**, featuring session-isolated storage and Markdown export functionality for secure research workflows.
 *   Leveraged **Groq LPUs** for high-speed inference, ensuring a low-latency user experience for real-time market and technical analysis.
 
-![Semiconductor Research Assistant Interface](/assets/img/Semiconductor_RAG.PNG)
 <img src="/assets/img/Semiconductor_RAG.PNG" alt="Semiconductor Research Assistant" width="100%">
 
 ---
@@ -38,7 +37,7 @@
 *   Developed a **CI/CD workflow** with **GitHub Actions** and **Docker**, enabling automated containerization and deployment to **AWS EC2** via **Amazon ECR**.
 *   Implemented **cloud-native data management** by integrating **MongoDB Atlas** for training data and **AWS S3** as a centralized model registry.
 
-![Insurance Lead Prediction Interface](/assets/img/MlopsInsurance.PNG)
+
 <img src="/assets/img/MlopsInsurance.PNG" alt="Insurance Lead Prediction" width="100%">
 
 ---
