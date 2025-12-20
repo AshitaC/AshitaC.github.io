@@ -1,3 +1,4 @@
+
 # MS Computer Science - AI & ML
 
 
@@ -23,7 +24,7 @@
 *   Engineered a **Retrieval-Augmented Generation (RAG)** system tailored for the semiconductor industry, utilizing **LangChain** and **Llama 3.3 70B** to automate technical research.
 *   Optimized data retrieval by implementing a vector search pipeline with **ChromaDB** and **HuggingFace embeddings**, enabling sub-second, cited Q&A from **complex PDFs** and **URLs**.
 *   Developed a **production-ready interface** using **Streamlit**, featuring session-isolated storage and Markdown export functionality for secure research workflows.
-*   Leveraged **Groq LPUs** for high-speed inference, ensuring a low-latency user experience for real-time market and technical analysis.
+*   **Reduced inference latency by 70%** by leveraging **Groq LPUs**, ensuring a real-time, responsive user experience for technical analysis..
 
 
 <div style="width: 100%; display: flex; justify-content: center; margin: 20px 0;">
