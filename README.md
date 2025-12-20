@@ -46,8 +46,8 @@
 ### Financial KPI Extractor | Python, LangChain, Streamlit, Llama 3
 **[Live App](https://financial-kpi-extractor.streamlit.app/) | [GitHub Repository](https://github.com/AshitaC/financial-kpi-extractor)**
 
-*   Engineered a **Generative AI** application to parse unstructured news articles and extract Revenue/EPS metrics with high precision.
-*   Implemented **LangChain** chains and custom **System Prompts** to enforce strict JSON output formatting from the **Llama 3.3** model.
+*   Engineered a **Generative AI application** to automate the extraction of critical financial metrics (Revenue, EPS) from unstructured news articles with high precision.
+*   Implemented **robust data structuring** using **LangChain** and custom **System Prompts** to enforce strict JSON output formatting from the **Llama 3.3** model, ensuring downstream data compatibility.
 *   Developed a responsive **Streamlit** frontend featuring side-by-side **Plotly** visualizations and CSV data export for financial analysis.
 *   Deployed the full-stack application to the cloud, utilizing **Groq API** for low-latency text processing.
 
@@ -58,9 +58,9 @@
 ### Trust-aware Neural News Recommender | PyTorch, BERT, HuggingFace
 **[GitHub Repository](https://github.com/AshitaC/Misinformation-Aware-News-Recommender-System)**
 
-*  Developed a trust-based recommender system in **PyTorch** using **HuggingFace Transformers**, focusing on ethical AI and misinformation mitigation.
-*  Integrated **BERT**-based content embeddings and **Attention Mechanisms** to create robust user representations that prioritize reliable news sources.
-*  Validated model performance on public benchmarks and established reproducible pipelines for the research community.
+*  **Implemented a trust-based neural recommender system** in **PyTorch** specifically designed to mitigate the spread of misinformation and prioritize ethical AI principles.
+*  Architected a **multi-head attention mechanism** to integrate **BERT-based content embeddings** with source reliability metrics, creating highly robust user representations.
+*  Engineered reproducible research pipelines using **HuggingFace Transformers** to validate model performance against industry-standard benchmarks.
 *  **Publication**: Work submitted to **ECIR 2026** (The 48th European Conference on Information Retrieval).
 
 **Publication:**
