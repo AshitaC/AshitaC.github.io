@@ -27,6 +27,14 @@
 
 <img src="/assets/img/Semiconductor_RAG.PNG" alt="Semiconductor Research Assistant" width="100%">
 
+
+
+asmdmf;
+
+<div style="width: 100%; display: flex; justify-content: center; margin: 20px 0;">
+  <img src="/assets/img/Semiconductor_RAG.PNG" alt="Semiconductor Research Assistant" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
 ---
 
 ### MLOps Pipeline for Insurance Lead Prediction | FastAPI, Docker, MongoDB Atlas, AWS, GitHub Actions
