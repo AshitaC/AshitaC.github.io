@@ -1,0 +1,16 @@
+---
+---
+@import "{{ site.theme }}";
+
+/* This widens the content area so images aren't squished */
+.wrapper {
+  max-width: 950px; 
+  margin: 0 auto;
+}
+
+/* This ensures all project images maintain their shape */
+img {
+  max-width: 100%;
+  height: auto !important;
+  border-radius: 8px;
+}
