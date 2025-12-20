@@ -2,13 +2,9 @@
 
 
 ## Technical Skills
-
 - **Generative AI & LLMs**: LangChain, RAG, Groq, HuggingFace Transformers, OpenAI API.
-
 - **Data Engineering & Vector DBs**: ChromaDB, MongoDB Atlas, SQL, Data Validation, Feature Engineering.
-
 - **MLOps & Cloud Infrastructure**: Docker, GitHub Actions (CI/CD), AWS (EC2, S3, ECR), Self-hosted Runners.
-
 - **Backend & Frontend Development**: FastAPI, Streamlit, RESTful APIs, Python, CSS.
 
 
