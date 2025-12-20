@@ -38,6 +38,7 @@
 *   Implemented **cloud-native data management** by integrating **MongoDB Atlas** for training data and **AWS S3** as a centralized model registry.
 
 <img src="/assets/img/MlopsInsurance.PNG" />
+![Insurance Lead Prediction Interface](/assets/img/MlopsInsurance.PNG)
 
 ---
 
