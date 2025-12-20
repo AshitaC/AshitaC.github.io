@@ -1,7 +1,15 @@
 # MS Computer Science - AI & ML
 
 
-#### Technical Skills: Python, SQL, PyTorch, NLP, LLMs, LangChain, RAG
+## Technical Skills
+
+- **Generative AI & LLMs**: LangChain, RAG, Groq, HuggingFace Transformers, OpenAI API.
+
+- **Data Engineering & Vector DBs**: ChromaDB, MongoDB Atlas, SQL, Data Validation, Feature Engineering.
+
+- **MLOps & Cloud Infrastructure**: Docker, GitHub Actions (CI/CD), AWS (EC2, S3, ECR), Self-hosted Runners.
+
+- **Backend & Frontend Development**: FastAPI, Streamlit, RESTful APIs, Python, CSS.
 
 
 ## Education
@@ -13,7 +21,19 @@
 
 ## Projects
 
-### End-to-End MLOps Pipeline for Insurance Lead Prediction | FastAPI, Docker, MongoDB Atlas, AWS (EC2, S3, ECR), GitHub Actions
+### Semiconductor Research Assistant RAG | LangChain, Groq, ChromaDB, Llama 3.3, Streamlit
+**[Live App](https://semiconductor-research-assistant-rag.streamlit.app/) | [GitHub Repository](https://github.com/AshitaC/semiconductor-research-assistant-rag)**
+
+*   Engineered a **Retrieval-Augmented Generation (RAG)** system tailored for the semiconductor industry, utilizing **LangChain** and **Llama 3.3 70B** to automate technical research.
+*   Optimized data retrieval by implementing a vector search pipeline with **ChromaDB** and **HuggingFace embeddings**, enabling sub-second, cited Q&A from **complex PDFs** and **URLs**.
+*   Developed a **production-ready interface** using **Streamlit**, featuring session-isolated storage and Markdown export functionality for secure research workflows.
+*   Leveraged **Groq LPUs** for high-speed inference, ensuring a low-latency user experience for real-time market and technical analysis.
+
+<img width="1680" height="925" alt="image" src="https://github.com/user-attachments/assets/a0eec016-050e-4d30-bffe-1b2d2650b77d" />
+
+---
+
+### MLOps Pipeline for Insurance Lead Prediction | FastAPI, Docker, MongoDB Atlas, AWS, GitHub Actions
 **[Live App](http://34.231.138.39:5000/) | [GitHub Repository](https://github.com/AshitaC/MLOps-Pipeline-for-Insurance-Lead-Prediction)**
 
 *   Architected a **production-grade MLOps pipeline** for vehicle insurance lead prediction, automating the end-to-end lifecycle from data ingestion to cloud deployment.
@@ -21,7 +41,7 @@
 *   Developed a **CI/CD workflow** with **GitHub Actions** and **Docker**, enabling automated containerization and deployment to **AWS EC2** via **Amazon ECR**.
 *   Implemented **cloud-native data management** by integrating **MongoDB Atlas** for training data and **AWS S3** as a centralized model registry.
 
-![Insurance Lead Prediction App Screenshot](https://github.com/user-attachments/assets/b64e0beb-da26-4cf3-9b99-b842f2077f23)
+<img src="/assets/img/MlopsInsurance.PNG" width="65%" />
 
 ---
 
