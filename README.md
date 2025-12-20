@@ -26,10 +26,7 @@
 *   Developed a **production-ready interface** using **Streamlit**, featuring session-isolated storage and Markdown export functionality for secure research workflows.
 *   **Reduced inference latency by 70%** by leveraging **Groq LPUs**, ensuring a real-time, responsive user experience for technical analysis..
 
-
-<div style="width: 100%; display: flex; justify-content: center; margin: 20px 0;">
-  <img src="/assets/img/Semiconductor_RAG.PNG" alt="Semiconductor Research Assistant" style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</div>
+![Semiconductor Research Assistant](/assets/img/Semiconductor_RAG.PNG)
 
 ---
 
@@ -42,7 +39,7 @@
 *   Implemented **cloud-native data management** by integrating **MongoDB Atlas** for training data and **AWS S3** as a centralized model registry.
 
 
-<img src="/assets/img/MlopsInsurance.PNG" alt="Insurance Lead Prediction" width="100%">
+![Insurance Lead Prediction](/assets/img/MlopsInsurance.PNG)
 
 ---
 
