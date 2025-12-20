@@ -25,7 +25,7 @@
 *   Developed a **production-ready interface** using **Streamlit**, featuring session-isolated storage and Markdown export functionality for secure research workflows.
 *   Leveraged **Groq LPUs** for high-speed inference, ensuring a low-latency user experience for real-time market and technical analysis.
 
-<img width="1680" height="925" alt="image" src="https://github.com/user-attachments/assets/a0eec016-050e-4d30-bffe-1b2d2650b77d" />
+<img src="/assets/img/Semiconductor RAG.PNG" />
 
 ---
 
@@ -37,7 +37,7 @@
 *   Developed a **CI/CD workflow** with **GitHub Actions** and **Docker**, enabling automated containerization and deployment to **AWS EC2** via **Amazon ECR**.
 *   Implemented **cloud-native data management** by integrating **MongoDB Atlas** for training data and **AWS S3** as a centralized model registry.
 
-<img src="/assets/img/MlopsInsurance.PNG" width="65%" />
+<img src="/assets/img/MlopsInsurance.PNG" />
 
 ---
 
