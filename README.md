@@ -13,6 +13,18 @@
 
 ## Projects
 
+### End-to-End MLOps Pipeline for Insurance Lead Prediction | FastAPI, Docker, MongoDB Atlas, AWS (EC2, S3, ECR), GitHub Actions
+**[Live App](http://34.231.138.39:5000/) | [GitHub Repository](https://github.com/AshitaC/MLOps-Pipeline-for-Insurance-Lead-Prediction)**
+
+*   Architected a **production-grade MLOps pipeline** for vehicle insurance lead prediction, automating the end-to-end lifecycle from data ingestion to cloud deployment.
+*   Engineered **modular ML pipelines** for data validation, transformation, and model training using **Python** and **FastAPI**, improving code maintainability and scalability.
+*   Developed a **CI/CD workflow** with **GitHub Actions** and **Docker**, enabling automated containerization and deployment to **AWS EC2** via **Amazon ECR**.
+*   Implemented **cloud-native data management** by integrating **MongoDB Atlas** for training data and **AWS S3** as a centralized model registry.
+
+![Insurance Lead Prediction App Screenshot](https://github.com/user-attachments/assets/b64e0beb-da26-4cf3-9b99-b842f2077f23)
+
+---
+
 ### Financial KPI Extractor | Python, LangChain, Streamlit, Llama 3
 **[Live App](https://financial-kpi-extractor.streamlit.app/) | [GitHub Repository](https://github.com/AshitaC/financial-kpi-extractor)**
 
