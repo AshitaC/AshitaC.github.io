@@ -25,7 +25,7 @@
 *   Developed a **production-ready interface** using **Streamlit**, featuring session-isolated storage and Markdown export functionality for secure research workflows.
 *   Leveraged **Groq LPUs** for high-speed inference, ensuring a low-latency user experience for real-time market and technical analysis.
 
-<img src="/assets/img/Semiconductor RAG.PNG" />
+![Semiconductor Research Assistant Interface](/assets/img/Semiconductor_RAG.PNG)
 
 ---
 
