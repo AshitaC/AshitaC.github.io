@@ -38,7 +38,7 @@ AI/ML Engineer with expertise in building production ML systems, from RAG pipeli
 *   Engineered a **Retrieval-Augmented Generation (RAG)** system tailored for the semiconductor industry, utilizing **LangChain** and **Llama 3.3 70B** to automate technical research.
 *   Optimized data retrieval by implementing a vector search pipeline with **ChromaDB** and **HuggingFace embeddings**, enabling sub-second, cited Q&A from **complex PDFs** and **URLs**.
 *   Developed a **production-ready interface** using **Streamlit**, featuring session-isolated storage and Markdown export functionality for secure research workflows.
-*   **Reduced inference latency by 70%** by leveraging **Groq LPUs**, ensuring a real-time, responsive user experience for technical analysis..
+*   **Reduced inference latency by 70%** by leveraging **Groq LPUs**, ensuring a real-time, responsive user experience for technical analysis.
 
 ![Semiconductor Research Assistant](/assets/img/Semiconductor_RAG.PNG)
 
