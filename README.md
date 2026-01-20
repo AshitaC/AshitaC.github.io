@@ -1,12 +1,26 @@
 
-# MS Computer Science - AI & ML
+
+
+**MS Computer Science - AI & ML**
+
+📧 [ashita0904@gmail.com](mailto:ashita0904@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/ashita-chandnani/) | 💻 [GitHub](https://github.com/AshitaC)
+
+---
+
+## About Me
+
+AI/ML Engineer with expertise in building production ML systems, from RAG pipelines to cloud-deployed MLOps infrastructure. Experienced in LangChain, Docker, AWS, and modern GenAI frameworks. Actively seeking roles in AI Engineering, MLOps, or Applied ML.
+
+---
 
 
 ## Technical Skills
-- **Generative AI & LLMs**: LangChain, RAG, Groq, HuggingFace Transformers, OpenAI API.
-- **Data Engineering & Vector DBs**: ChromaDB, MongoDB Atlas, SQL, Data Validation, Feature Engineering.
-- **MLOps & Cloud Infrastructure**: Docker, GitHub Actions (CI/CD), AWS (EC2, S3, ECR), Self-hosted Runners.
-- **Backend & Frontend Development**: FastAPI, Streamlit, RESTful APIs, Python, CSS.
+
+- **Generative AI & LLMs**: LangChain, RAG, Groq, OpenAI API, Llama Models, HuggingFace Transformers, Prompt Engineering.
+- **MLOps & Cloud Infrastructure**: Docker, GitHub Actions (CI/CD), AWS (EC2, S3, ECR), MongoDB Atlas, Self-hosted Runners.
+- **Machine Learning**: PyTorch, BERT, Model Training & Evaluation, Feature Engineering, Neural Networks.
+- **Backend Development**: Python, FastAPI, RESTful APIs, Streamlit.
+- **Data & Analytics**: SQL, ChromaDB, Vector Databases, ETL Pipelines, Power BI, DAX.
 
 
 ## Education
@@ -61,10 +75,6 @@
 *  **Implemented a trust-based neural recommender system** in **PyTorch** specifically designed to mitigate the spread of misinformation and prioritize ethical AI principles.
 *  Architected a **multi-head attention mechanism** to integrate **BERT-based content embeddings** with source reliability metrics, creating highly robust user representations.
 *  Engineered reproducible research pipelines using **HuggingFace Transformers** to validate model performance against industry-standard benchmarks.
-*  **Publication**: Work submitted to **ECIR 2026** (The 48th European Conference on Information Retrieval).
-
-**Publication:**
-A. Chandnani, M. S. Ahmed, and F. Spezzano. "Reproducibility of FANAR: Adapting a Trust-based News Recommender for Fake News Mitigation to Public Benchmarks." Submitted to **ECIR 2026**.
 
 <img src="/assets/img/ModelOverview.png" width="45%" /> <img src="/assets/img/ModelArchitecture.png" width="45%" />
 
