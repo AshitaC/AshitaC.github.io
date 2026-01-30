@@ -76,6 +76,8 @@ AI/ML Engineer with expertise in building production ML systems, from RAG pipeli
 *  Architected a **multi-head attention mechanism** to integrate **BERT-based content embeddings** with source reliability metrics, creating highly robust user representations.
 *  Engineered reproducible research pipelines using **HuggingFace Transformers** to validate model performance against industry-standard benchmarks.
 
+*  **Publication** - A. Chandnani,  M. S. Ahmed, and F. Spezzano. **"Reproducibility of FANAR: Adapting a Trust-based News Recommender for Fake News Mitigation to Public Benchmarks."** Under review at SIGIR 2026 (49th International ACM SIGIR Conference on Research and Development in Information Retrieval).
+
 <img src="/assets/img/ModelOverview.png" width="45%" /> <img src="/assets/img/ModelArchitecture.png" width="45%" />
 
 ---
