@@ -54,7 +54,7 @@ Conversational Agent with Long-Term Memory | AWS Bedrock AgentCore, LangGraph, F
 
 •	Containerized with **Docker** and integrated **CloudWatch observability** for serverless scaling on **AWS managed runtime**.
 
-![Agent Behavior With vs Without Memory](images/WithAndWithoutMemory.png)
+![Agent Behavior With vs Without Memory](/assets/img/WithAndWithoutMemory.png)
 
 --- 
 
