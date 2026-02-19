@@ -44,9 +44,10 @@ AI/ML Engineer with expertise in building production ML systems, from RAG pipeli
 
 ---
 
+
 ### Conversational Agent with Long-Term Memory | AWS Bedrock AgentCore, LangGraph, FAISS, Groq  
 
-**[GitHub Repository](https://github.com/AshitaC/Convesational-Agent_AWS-BedrockAgentCore/edit/main/README.md)**
+**[GitHub Repository](https://github.com/AshitaC/Convesational-Agent_AWS-BedrockAgentCore/tree/main)**
 
 * Designed and deployed a **stateful conversational AI agent*** on AWS Bedrock AgentCore with **cross-session memory** and **RAG-based FAQ** retrieval.
 
