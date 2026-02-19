@@ -48,13 +48,13 @@ AI/ML Engineer with expertise in building production ML systems, from RAG pipeli
 
 **[GitHub Repository](https://github.com/AshitaC/Convesational-Agent_AWS-BedrockAgentCore/edit/main/README.md)**
 
-•	Designed and deployed a **stateful conversational AI agent*** on AWS Bedrock AgentCore with **cross-session memory** and **RAG-based FAQ** retrieval.
+* Designed and deployed a **stateful conversational AI agent*** on AWS Bedrock AgentCore with **cross-session memory** and **RAG-based FAQ** retrieval.
 
-•	Engineered three ***agentic LangChain tools** backed by **FAISS** vector store with HuggingFace embeddings for dynamic FAQ retrieval.
+*	Engineered three ***agentic LangChain tools** backed by **FAISS** vector store with HuggingFace embeddings for dynamic FAQ retrieval.
 
-•	Built custom **memory middleware** that semantically retrieves user preferences before each LLM call enabling **context retention** across sessions.
+*	Built custom **memory middleware** that semantically retrieves user preferences before each LLM call enabling **context retention** across sessions.
 
-•	Containerized with **Docker** and integrated **CloudWatch observability** for serverless scaling on **AWS managed runtime**.
+*	Containerized with **Docker** and integrated **CloudWatch observability** for serverless scaling on **AWS managed runtime**.
 
 ![Agent Behavior With vs Without Memory](/assets/img/WithAndWithoutMemory.png)
 
