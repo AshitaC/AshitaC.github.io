@@ -9,25 +9,24 @@
 
 ## About Me
 
-AI/ML Engineer with expertise in building production ML systems, from RAG pipelines to cloud-deployed MLOps infrastructure. Experienced in LangChain, Docker, AWS, and modern GenAI frameworks. Actively seeking roles in AI Engineering, MLOps, or Applied ML.
+AI Engineer specializing in production grade Generative AI systems, agentic workflows, and cloud-native ML infrastructure. Recent Master's in CS (4.0 GPA) with hands-on experience building RAG pipelines, multi-turn conversational agents, and end-to-end MLOps pipelines deployed on AWS. Passionate about bridging LLM research and real-world systems at scale. Actively seeking roles in AI Engineering, MLOps, or Applied ML.
 
 ---
 
 
 ## Technical Skills
 
-- **Generative AI & LLMs**: LangChain, RAG, Groq, OpenAI API, Llama Models, HuggingFace Transformers, Prompt Engineering.
-- **MLOps & Cloud Infrastructure**: Docker, GitHub Actions (CI/CD), AWS (EC2, S3, ECR), MongoDB Atlas, Self-hosted Runners.
-- **Machine Learning**: PyTorch, BERT, Model Training & Evaluation, Feature Engineering, Neural Networks.
-- **Backend Development**: Python, FastAPI, RESTful APIs, Streamlit.
-- **Data & Analytics**: SQL, ChromaDB, Vector Databases, ETL Pipelines, Power BI, DAX.
+- **Generative AI & LLMs**: LangChain, LangGraph, RAG, Agentic Workflows, OpenAI API, Llama 3.3, FAISS, ChromaDB, HuggingFace Transformers, Prompt Engineering
+- **Cloud & MLOps**: AWS Bedrock AgentCore, EC2, S3, ECR , Docker, GitHub Actions (CI/CD), ML Pipeline Orchestration
+- **Machine Learning**: PyTorch, TensorFlow, BERT, Scikit-Learn, Feature Engineering, Model Evaluation
+- **Data & Backend**: Python, FastAPI, Streamlit, SQL, Pandas, NumPy, Power BI
+
 
 
 ## Education
-- **M.S., Computer Science** | Boise State University (USA)
-- **M.S., Electrical & Computer Engineering** | Indian Institute of Technology (India)
-- **B.S., Electrical Engineering** | University of Rajasthan (India)
-
+- **M.S., Computer Science** — Boise State University, Aug 2025 | GPA: 4.0/4.0
+- **M.S., Electrical & Computer Engineering**  — IIT Gandhinagar, India | CGPA: 9.2/10.0
+- **B.S., Electrical Engineering**— University of Rajasthan University, India | CGPA: 8.5/10.0
 ---
 
 ## Projects
