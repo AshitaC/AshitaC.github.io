@@ -34,8 +34,6 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 -  **M.S., Computer Science** — Boise State University, Aug 2025 | GPA: 4.0/4.0
    Research focused on Trust-Based AI, NLP, and Misinformation Mitigation using PyTorch.
 
--  **M.S., Electrical & Computer Engineering** — IIT Gandhinagar, India | CGPA: 9.2/10.0
-
 -  **B.S., Electrical Engineering** — University of Rajasthan, India | CGPA: 8.5/10.0
   
 ---
