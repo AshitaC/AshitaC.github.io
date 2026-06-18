@@ -9,7 +9,7 @@
 
 
 ## About Me
-AI Engineer specializing in production-grade Generative AI systems, agentic workflows, and cloud-native ML infrastructure. Master’s in Artificial Intelligence student at UT Austin, building on a strong foundation from a recent MS in Computer Science (4.0 GPA). 
+Master’s in Artificial Intelligence student at UT Austin, building on a strong foundation from a recent MS in Computer Science (4.0 GPA). Building sprecialization in Generative AI systems, agentic workflows, and cloud-native ML infrastructure. 
 
 Passionate about bridging LLM research and real-world systems at scale, my hands-on experience includes engineering RAG pipelines, multi-turn conversational agents, and automated CI/CD MLOps pipelines deployed on AWS. **Actively seeking AI Engineering, Machine Learning Engineering, or Data Science Internships for Fall 2026 and Spring/Summer 2027.**
 
