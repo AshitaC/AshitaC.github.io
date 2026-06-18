@@ -1,15 +1,17 @@
 
 
 
-**MS Computer Science - AI & ML**
+**MS AI Student @ UT Austin | AI/ML Engineer**
 
 📧 [ashita0904@gmail.com](mailto:ashita0904@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/ashita-chandnani/) | 💻 [GitHub](https://github.com/AshitaC)
 
 ---
 
-## About Me
 
-AI Engineer specializing in production grade Generative AI systems, agentic workflows, and cloud-native ML infrastructure. Recent Master's in CS (4.0 GPA) with hands-on experience building RAG pipelines, multi-turn conversational agents, and end-to-end MLOps pipelines deployed on AWS. Passionate about bridging LLM research and real-world systems at scale. Actively seeking roles in AI Engineering, MLOps, or Applied ML.
+## About Me
+AI Engineer specializing in production-grade Generative AI systems, agentic workflows, and cloud-native ML infrastructure. Master’s in Artificial Intelligence student at UT Austin, building on a strong foundation from a recent MS in Computer Science (4.0 GPA). 
+
+Passionate about bridging LLM research and real-world systems at scale, my hands-on experience includes engineering RAG pipelines, multi-turn conversational agents, and automated CI/CD MLOps pipelines deployed on AWS. **Actively seeking AI Engineering, Machine Learning Engineering, or Data Science Internships for Fall 2026 and Spring/Summer 2027.**
 
 ---
 
@@ -23,10 +25,18 @@ AI Engineer specializing in production grade Generative AI systems, agentic work
 
 
 
+
 ## Education
-- **M.S., Computer Science** — Boise State University, Aug 2025 | GPA: 4.0/4.0
-- **M.S., Electrical & Computer Engineering**  — IIT Gandhinagar, India | CGPA: 9.2/10.0
-- **B.S., Electrical Engineering**— University of Rajasthan University, India | CGPA: 8.5/10.0
+
+-  **M.S., Artificial Intelligence** — The University of Texas at Austin, Expected May 2028
+   Focus: Deep Learning Architectures, Scalable AI Systems, and MLOps Optimization.
+
+-  **M.S., Computer Science** — Boise State University, Aug 2025 | GPA: 4.0/4.0
+   Research focused on Trust-Based AI, NLP, and Misinformation Mitigation using PyTorch.
+
+-  **M.S., Electrical & Computer Engineering** — IIT Gandhinagar, India | CGPA: 9.2/10.0
+
+-  **B.S., Electrical Engineering** — University of Rajasthan, India | CGPA: 8.5/10.0
   
 ---
 
