@@ -9,9 +9,9 @@
 
 
 ## About Me
-Master’s in Artificial Intelligence student at UT Austin, building on a strong foundation from a recent MS in Computer Science (4.0 GPA). Building sprecialization in Generative AI systems, agentic workflows, and cloud-native ML infrastructure. 
+Master’s in Artificial Intelligence student at UT Austin, building on a strong foundation from a recent MS in Computer Science (4.0 GPA). Building specialization in Generative AI systems, agentic workflows, and cloud-native ML infrastructure. 
 
-Passionate about bridging LLM research and real-world systems at scale, my hands-on experience includes engineering RAG pipelines, multi-turn conversational agents, and automated CI/CD MLOps pipelines deployed on AWS. **Actively seeking AI Engineering, Machine Learning Engineering, or Data Science Internships for Fall 2026 and Spring/Summer 2027.**
+Passionate about bridging LLM research and real-world systems at scale, my hands-on experience includes engineering RAG pipelines, multi-turn conversational agents, and automated CI/CD MLOps pipelines deployed on AWS. **Actively seeking AI Engineering, Machine Learning Engineering, or Data Science internships and roles for 2027.**
 
 ---
 
@@ -19,7 +19,7 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 ## Technical Skills
 
 - **Generative AI & LLMs**: LangChain, LangGraph, RAG, Agentic Workflows, OpenAI API, Llama 3.3, FAISS, ChromaDB, HuggingFace Transformers, Prompt Engineering
-- **Cloud & MLOps**: AWS Bedrock AgentCore, EC2, S3, ECR , Docker, GitHub Actions (CI/CD), ML Pipeline Orchestration
+- **Cloud & MLOps**: AWS Bedrock AgentCore, EC2, S3, ECR, Docker, GitHub Actions (CI/CD), ML Pipeline Orchestration
 - **Machine Learning**: PyTorch, TensorFlow, BERT, Scikit-Learn, Feature Engineering, Model Evaluation
 - **Data & Backend**: Python, FastAPI, Streamlit, SQL, Pandas, NumPy, Power BI
 
@@ -28,13 +28,15 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 
 ## Education
 
--  **M.S., Artificial Intelligence** — The University of Texas at Austin, Expected May 2028
+-  **M.S., Artificial Intelligence** — The University of Texas at Austin, Expected May 2028  
    Focus: Deep Learning Architectures, Scalable AI Systems, and MLOps Optimization.
 
--  **M.S., Computer Science** — Boise State University, Aug 2025 | GPA: 4.0/4.0
+-  **M.S., Computer Science** — Boise State University, Aug 2025 | GPA: 4.0/4.0  
    Research focused on Trust-Based AI, NLP, and Misinformation Mitigation using PyTorch.
 
--  **B.S., Electrical Engineering** — University of Rajasthan, India | CGPA: 8.5/10.0
+-  **M.Tech., Electrical Engineering** — Indian Institute of Technology (IIT) Gandhinagar, 2014 | CPI: 9.2/10.0
+
+-  **B.E., Electronics & Communication Engineering** — Government Engineering College Bikaner (University of Rajasthan), 2009 | CGPA: 8.5/10.0
   
 ---
 
@@ -56,7 +58,7 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 
 ### Conversational Agent with Long-Term Memory | AWS Bedrock AgentCore, LangGraph, FAISS, Groq  
 
-**[GitHub Repository](https://github.com/AshitaC/Convesational-Agent_AWS-BedrockAgentCore/tree/main)**
+**[GitHub Repository](https://github.com/AshitaC/Conversational-Agent_AWS-BedrockAgentCore)**
 
 * Designed and deployed a **stateful conversational AI agent** on AWS Bedrock AgentCore with **cross-session memory** and **RAG-based FAQ** retrieval.
 
@@ -99,10 +101,11 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 **[GitHub Repository](https://github.com/AshitaC/Misinformation-Aware-News-Recommender-System)**
 
 *  **Implemented a trust-based neural recommender system** in **PyTorch** specifically designed to mitigate the spread of misinformation and prioritize ethical AI principles.
-*  Architected a **multi-head attention mechanism** to integrate **BERT-based content embeddings** with source reliability metrics, creating highly robust user representations.
-*  Engineered reproducible research pipelines using **HuggingFace Transformers** to validate model performance against industry-standard benchmarks.
+*  Built **attention-based news-space and neighbor-space aggregation** over frozen **BERT** embeddings, with a **Beta trust model** that filters untrustworthy users out of each recommendation neighborhood.
+*  Achieved **48% higher MRR@10** than the strongest of **7 classical baselines** on PolitiFact, with a lower fake-news ratio than every collaborative-filtering baseline; ablation showed trust filtering alone adds **18.8% MRR@10**.
+*  Engineered reproducible research pipelines using **HuggingFace Transformers** on public benchmarks (FakeNewsNet PolitiFact, FakeHealth; 140K+ user-news interactions).
 
-*  **Publication** - A. Chandnani,  M. S. Ahmed, and F. Spezzano. **"Reproducibility of FANAR: Adapting a Trust-based News Recommender for Fake News Mitigation to Public Benchmarks."** Under review at RecSys 2026 (ACM Conference on Recommender Systems), Reproducibility Track.
+*  **Publication** - A. Chandnani,  M. S. Ahmed, and F. Spezzano. **"Reproducibility of FANAR: Adapting a Trust-based News Recommender for Fake News Mitigation to Public Benchmarks."** First-author manuscript, under revision for resubmission.
 
 <img src="/assets/img/ModelOverview.png" width="45%" /> <img src="/assets/img/ModelArchitecture.png" width="45%" />
 
