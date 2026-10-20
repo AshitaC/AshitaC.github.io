@@ -37,9 +37,33 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 -  **M.Tech., Electrical Engineering** — Indian Institute of Technology (IIT) Gandhinagar | CPI: 9.2/10.0
 
 -  **B.E., Electronics & Communication Engineering** — Government Engineering College Bikaner (University of Rajasthan) | CGPA: 8.5/10.0
+
+-  **Certifications:** Linear Algebra & Calculus for ML (DeepLearning.AI), Introduction to Statistics (Stanford Online), Data Science with Python (Edureka), SQL, Python & Power BI (Codebasics)
   
 ---
 
+
+## Experience
+
+-  **Graduate Researcher, Computer Science** — Boise State University | 2024 – 2025  
+   Trust-aware recommender systems and misinformation mitigation (see *Trust-aware Neural News Recommender* below).
+
+-  **Graduate Researcher, Electrical & Computer Engineering (Doctoral Program)** — Boise State University | 2016 – 2020  
+   *  Research in printed and flexible electronics: graphene- and carbon-nanotube-based sensors and graphene inks; funded by an **IGEM fellowship**.
+   *  Co-authored *"A Review of Inkjet Printed Graphene and Carbon Nanotubes Based Gas Sensors,"* **Sensors (MDPI), 2020** — **120+ citations**.
+   *  Co-inventor, **US Patent Application 15/916,712**, "Modular Solar Cell Electrical Power Generating Layer for Low Earth Orbit Space Suits" (2018).
+   *  Passed the doctoral comprehensive exam; 4.0 GPA in graduate coursework including Deep Learning with Python, Digital IC Design, and Nanoscale Transport.
+   *  Transitioned to machine learning, completing an M.S. in Computer Science (2025).
+
+-  **Assistant Professor, Electronics & Communication Engineering** — Nirma University, Ahmedabad | 2014 – 2015  
+   Taught Digital Electronics and Communication Systems; mentored undergraduate student projects.
+
+## Publications
+
+-  T. Pandhi, **A. Chandnani**, H. Subbaraman, D. Estrada, "A Review of Inkjet Printed Graphene and Carbon Nanotubes Based Gas Sensors," *Sensors*, 20(19), 5642, 2020. [doi:10.3390/s20195642](https://doi.org/10.3390/s20195642) — 120+ citations
+-  **A. Chandnani** et al., "Design and Analysis of Piezoresistive Polyimide Nanocantilevers for Surface Stress Sensing Applications," *International Conference on MEMS and Sensors*, 2014.
+
+---
 
 ## Projects
 
@@ -47,9 +71,8 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 **[Live App](https://semiconductor-research-assistant-rag.streamlit.app/) | [GitHub Repository](https://github.com/AshitaC/semiconductor-research-assistant-rag)**
 
 *   Engineered a **Retrieval-Augmented Generation (RAG)** system tailored for the semiconductor industry, utilizing **LangChain** and **Llama 3.3 70B** to automate technical research.
-*   Optimized data retrieval by implementing a vector search pipeline with **ChromaDB** and **HuggingFace embeddings**, enabling sub-second, cited Q&A from **complex PDFs** and **URLs**.
+*   Optimized data retrieval by implementing a vector search pipeline with **ChromaDB** and **HuggingFace embeddings**, enabling cited Q&A from **complex PDFs** and **URLs**.
 *   Developed a **production-ready interface** using **Streamlit**, featuring session-isolated storage and Markdown export functionality for secure research workflows.
-*   **Reduced inference latency by 70%** by leveraging **Groq LPUs**, ensuring a real-time, responsive user experience for technical analysis.
 
 ![Semiconductor Research Assistant](/assets/img/Semiconductor_RAG.PNG)
 
@@ -73,7 +96,7 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 --- 
 
 ### MLOps Pipeline for Insurance Lead Prediction | FastAPI, Docker, MongoDB Atlas, AWS, GitHub Actions
-**[Live App](http://34.231.138.39:5000/) | [GitHub Repository](https://github.com/AshitaC/MLOps-Pipeline-for-Insurance-Lead-Prediction)**
+**[GitHub Repository](https://github.com/AshitaC/MLOps-Pipeline-for-Insurance-Lead-Prediction)**
 
 *   Architected a **production-grade MLOps pipeline** for vehicle insurance lead prediction, automating the end-to-end lifecycle from data ingestion to cloud deployment.
 *   Engineered **modular ML pipelines** for data validation, transformation, and model training using **Python** and **FastAPI**, improving code maintainability and scalability.
@@ -88,7 +111,7 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 ### Financial KPI Extractor | Python, LangChain, Streamlit, Llama 3
 **[Live App](https://financial-kpi-extractor.streamlit.app/) | [GitHub Repository](https://github.com/AshitaC/financial-kpi-extractor)**
 
-*   Engineered a **Generative AI application** to automate the extraction of critical financial metrics (Revenue, EPS) from unstructured news articles with high precision.
+*   Engineered a **Generative AI application** to automate the extraction of critical financial metrics (Revenue, EPS) from unstructured news articles.
 *   Implemented **robust data structuring** using **LangChain** and custom **System Prompts** to enforce strict JSON output formatting from the **Llama 3.3** model, ensuring downstream data compatibility.
 *   Developed a responsive **Streamlit** frontend featuring side-by-side **Plotly** visualizations and CSV data export for financial analysis.
 *   Deployed the full-stack application to the cloud, utilizing **Groq API** for low-latency text processing.
