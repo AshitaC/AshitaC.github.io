@@ -1,7 +1,7 @@
 # add the following to _config.yml file
 title: Ashita Chandnani
 logo: /assets/img/headshot.png
-description: MS AI student at UT Austin | AI/ML Engineer
+description: MS AI @ UT Austin | LLM Agents • RAG • MLOps
 
 #show_downloads: true
 theme: jekyll-theme-minimal

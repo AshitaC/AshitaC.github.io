@@ -9,9 +9,9 @@
 
 
 ## About Me
-Master’s in Artificial Intelligence student at UT Austin, building on a strong foundation from a recent MS in Computer Science (4.0 GPA). Building specialization in Generative AI systems, agentic workflows, and cloud-native ML infrastructure. 
+MS in Artificial Intelligence student at UT Austin, building on an MS in Computer Science from Boise State (4.0 GPA) and an M.Tech in Electrical Engineering from IIT Gandhinagar. I build generative AI systems (LLM agents with memory, RAG pipelines that cite their sources) and the MLOps that ships them to AWS.
 
-Passionate about bridging LLM research and real-world systems at scale, my hands-on experience includes engineering RAG pipelines, multi-turn conversational agents, and automated CI/CD MLOps pipelines deployed on AWS. **Actively seeking AI Engineering, Machine Learning Engineering, or Data Science internships and roles for 2027.**
+My path into AI runs through research: four years of doctoral work on printed sensors, then trust-aware recommender systems for fighting misinformation. **Seeking AI/ML engineering internships and roles for 2027.**
 
 ---
 
