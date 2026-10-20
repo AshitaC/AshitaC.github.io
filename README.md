@@ -148,4 +148,13 @@ My path into AI runs through research: doctoral work on printed sensors, then tr
 
 ---
 
+### MovieLens Data Mining at Scale | PySpark, Spark SQL, Hadoop (HDFS)
+**[GitHub Repository](https://github.com/AshitaC/Big-Data-Analytics)**
+
+*   Mined the **MovieLens 1M** dataset (1M ratings, 6,000 users, 4,000 movies) with **PySpark** and **Spark SQL**, answering 10+ questions such as top movies by year, age group and season, genre preferences by occupation, and top-rated movies per genre using `RANK()` window functions.
+*   Ran jobs with `spark-submit` on a **Spark/Hadoop (HDFS) cluster**: the 1M analysis finished in **46 seconds on the cluster versus hours on a single VM**; extended tag-trend analysis to **MovieLens 25M** using caching.
+*   Validated results on a 32K-rating sample in **Excel Power Query** before scaling up, with matching outputs on the VM and the cluster.
+
+---
+
 
