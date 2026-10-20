@@ -50,7 +50,7 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 
 -  **Graduate Researcher, Electrical & Computer Engineering (Doctoral Program)** — Boise State University | 2016 – 2020  
    *  Research in printed and flexible electronics: graphene- and carbon-nanotube-based sensors and graphene inks; funded by an **IGEM fellowship**.
-   *  Co-authored *"A Review of Inkjet Printed Graphene and Carbon Nanotubes Based Gas Sensors,"* **Sensors (MDPI), 2020** — **120+ citations**.
+   *  Equal-contribution first author, *"A Review of Inkjet Printed Graphene and Carbon Nanotubes Based Gas Sensors,"* **Sensors (MDPI), 2020** — **120+ citations**.
    *  Co-inventor, **US Patent Application 15/916,712**, "Modular Solar Cell Electrical Power Generating Layer for Low Earth Orbit Space Suits" (2018).
    *  Passed the doctoral comprehensive exam; 4.0 GPA in graduate coursework including Deep Learning with Python, Digital IC Design, and Nanoscale Transport.
    *  Transitioned to machine learning, completing an M.S. in Computer Science (2025).
@@ -61,7 +61,7 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 ## Publications
 
 -  M. S. Ahmed, **A. Chandnani**, F. Spezzano, "Reproducibility of FANAR: Adapting a Trust-based News Recommender for Fake News Mitigation to Public Benchmarks," under review at *ECIR 2027* (Reproducibility track).
--  T. Pandhi, **A. Chandnani**, H. Subbaraman, D. Estrada, "A Review of Inkjet Printed Graphene and Carbon Nanotubes Based Gas Sensors," *Sensors*, 20(19), 5642, 2020. [doi:10.3390/s20195642](https://doi.org/10.3390/s20195642) — 120+ citations
+-  T. Pandhi†, **A. Chandnani**†, H. Subbaraman, D. Estrada, "A Review of Inkjet Printed Graphene and Carbon Nanotubes Based Gas Sensors," *Sensors*, 20(19), 5642, 2020. [doi:10.3390/s20195642](https://doi.org/10.3390/s20195642) — † equal contribution; 120+ citations (Google Scholar)
 -  **A. Chandnani** et al., "Design and Analysis of Piezoresistive Polyimide Nanocantilevers for Surface Stress Sensing Applications," *International Conference on MEMS and Sensors*, 2014.
 
 ---
