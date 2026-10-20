@@ -48,7 +48,7 @@ My path into AI runs through research: doctoral work on printed sensors, then tr
 -  **Graduate Researcher, Computer Science** — Boise State University | 2024 – 2025  
    Trust-aware recommender systems and misinformation mitigation (see *Trust-aware Neural News Recommender* below).
 
--  **Graduate Researcher, Electrical & Computer Engineering (Doctoral Program)** — Boise State University | 2016 – 2020  
+-  **Graduate Researcher, Electrical & Computer Engineering (Doctoral Program)** — Boise State University | 2017 – 2020  
    *  Research in printed and flexible electronics: graphene- and carbon-nanotube-based sensors and graphene inks; funded by an **IGEM fellowship**.
    *  Equal-contribution first author, *"A Review of Inkjet Printed Graphene and Carbon Nanotubes Based Gas Sensors,"* **Sensors (MDPI), 2020** — **120+ citations**.
    *  Co-inventor on a published patent application, "Modular Solar Cell Electrical Power Generating Layer for Low Earth Orbit Space Suits," US 2018/0342976 A1 (2018).
