@@ -11,7 +11,7 @@
 ## About Me
 MS in Artificial Intelligence student at UT Austin, building on an MS in Computer Science from Boise State (4.0 GPA) and an M.Tech in Electrical Engineering from IIT Gandhinagar. I build generative AI systems (LLM agents with memory, RAG pipelines that cite their sources) and the MLOps that ships them to AWS.
 
-My path into AI runs through research: four years of doctoral work on printed sensors, then trust-aware recommender systems for fighting misinformation. **Seeking AI/ML engineering internships and roles for 2027.**
+My path into AI runs through research: doctoral work on printed sensors, then trust-aware recommender systems for fighting misinformation. **Seeking AI/ML engineering internships and roles for 2027.**
 
 ---
 
