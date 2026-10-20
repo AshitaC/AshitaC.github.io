@@ -60,6 +60,7 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 
 ## Publications
 
+-  M. S. Ahmed, **A. Chandnani**, F. Spezzano, "Reproducibility of FANAR: Adapting a Trust-based News Recommender for Fake News Mitigation to Public Benchmarks," under review at *ECIR 2027* (Reproducibility track).
 -  T. Pandhi, **A. Chandnani**, H. Subbaraman, D. Estrada, "A Review of Inkjet Printed Graphene and Carbon Nanotubes Based Gas Sensors," *Sensors*, 20(19), 5642, 2020. [doi:10.3390/s20195642](https://doi.org/10.3390/s20195642) — 120+ citations
 -  **A. Chandnani** et al., "Design and Analysis of Piezoresistive Polyimide Nanocantilevers for Surface Stress Sensing Applications," *International Conference on MEMS and Sensors*, 2014.
 
@@ -127,6 +128,7 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 *  Built **attention-based news-space and neighbor-space aggregation** over frozen **BERT** embeddings, with a **Beta trust model** that filters untrustworthy users out of each recommendation neighborhood.
 *  Achieved **48% higher MRR@10** than the strongest of **7 classical baselines** on PolitiFact, with a lower fake-news ratio than every collaborative-filtering baseline; ablation showed trust filtering alone adds **18.8% MRR@10**.
 *  Engineered reproducible research pipelines using **HuggingFace Transformers** on public benchmarks (FakeNewsNet PolitiFact, FakeHealth; 140K+ user-news interactions).
+*  **Paper:** co-author of a reproducibility study under review at ECIR 2027 (see Publications).
 
 
 <img src="/assets/img/ModelOverview.png" width="45%" /> <img src="/assets/img/ModelArchitecture.png" width="45%" />
