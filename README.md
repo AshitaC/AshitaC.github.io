@@ -63,7 +63,7 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 -  M. S. Ahmed, **A. Chandnani**, F. Spezzano, "Reproducibility of FANAR: Adapting a Trust-based News Recommender for Fake News Mitigation to Public Benchmarks," under review at *ECIR 2027* (Reproducibility track).
 -  T. Pandhi†, **A. Chandnani**†, H. Subbaraman, D. Estrada, "A Review of Inkjet Printed Graphene and Carbon Nanotubes Based Gas Sensors," *Sensors*, 20(19), 5642, 2020. [doi:10.3390/s20195642](https://doi.org/10.3390/s20195642) — † equal contribution; 120+ citations (Google Scholar)
 -  **A. Chandnani** et al., "Design and Analysis of Piezoresistive Polyimide Nanocantilevers for Surface Stress Sensing Applications," *International Conference on MEMS and Sensors*, 2014.
--  S. Pederson, **A. Chandnani**, D. Butler, S. O'Kelley, "Modular Solar Cell Electrical Power Generating Layer for Low Earth Orbit Space Suits," US Patent Application Publication [US 2018/0342976 A1](https://patents.google.com/patent/US20180342976A1/en), 2018 (application not granted).
+-  S. Pederson, **A. Chandnani**, D. Butler, S. O'Kelley, "Modular Solar Cell Electrical Power Generating Layer for Low Earth Orbit Space Suits," US Patent Application Publication [US 2018/0342976 A1](https://patents.google.com/patent/US20180342976A1/en), 2018.
 
 ---
 
