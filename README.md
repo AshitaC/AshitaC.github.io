@@ -28,7 +28,7 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 
 ## Education
 
--  **M.S., Artificial Intelligence** — The University of Texas at Austin, Expected May 2028  
+-  **M.S., Artificial Intelligence** — The University of Texas at Austin, Expected Dec 2027  
    Focus: Deep Learning Architectures, Scalable AI Systems, and MLOps Optimization.
 
 -  **M.S., Computer Science** — Boise State University, Aug 2025 | GPA: 4.0/4.0  
@@ -105,7 +105,6 @@ Passionate about bridging LLM research and real-world systems at scale, my hands
 *  Achieved **48% higher MRR@10** than the strongest of **7 classical baselines** on PolitiFact, with a lower fake-news ratio than every collaborative-filtering baseline; ablation showed trust filtering alone adds **18.8% MRR@10**.
 *  Engineered reproducible research pipelines using **HuggingFace Transformers** on public benchmarks (FakeNewsNet PolitiFact, FakeHealth; 140K+ user-news interactions).
 
-*  **Publication** - A. Chandnani,  M. S. Ahmed, and F. Spezzano. **"Reproducibility of FANAR: Adapting a Trust-based News Recommender for Fake News Mitigation to Public Benchmarks."** First-author manuscript, under revision for resubmission.
 
 <img src="/assets/img/ModelOverview.png" width="45%" /> <img src="/assets/img/ModelArchitecture.png" width="45%" />
 
