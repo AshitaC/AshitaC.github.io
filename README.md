@@ -3,7 +3,7 @@
 
 **MS AI Student @ UT Austin**
 
-📧 [ashita0904@gmail.com](mailto:ashita0904@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/ashita-chandnani/) | 💻 [GitHub](https://github.com/AshitaC)
+📧 [ashita0904@gmail.com](mailto:ashita0904@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/ashita-chandnani/) | 💻 [GitHub](https://github.com/AshitaC) | 📄 [Resume (PDF)](/assets/Ashita_Chandnani_Resume.pdf)
 
 ---
 
@@ -25,47 +25,6 @@ My path into AI runs through research: doctoral work on printed sensors, then tr
 
 
 
-
-## Education
-
--  **M.S., Artificial Intelligence** — The University of Texas at Austin, Expected Dec 2027  
-   Focus: Deep Learning Architectures, Scalable AI Systems, and MLOps Optimization.
-
--  **M.S., Computer Science** — Boise State University, Aug 2025 | GPA: 4.0/4.0  
-   Research focused on Trust-Based AI, NLP, and Misinformation Mitigation using PyTorch.
-
--  **M.Tech., Electrical Engineering** — Indian Institute of Technology (IIT) Gandhinagar | CPI: 9.2/10.0
-
--  **B.E., Electronics & Communication Engineering** — Government Engineering College Bikaner (University of Rajasthan) | CGPA: 8.5/10.0
-
--  **Certifications:** Linear Algebra & Calculus for ML (DeepLearning.AI), Introduction to Statistics (Stanford Online), Data Science with Python (Edureka), SQL, Python & Power BI (Codebasics)
-  
----
-
-
-## Experience
-
--  **Graduate Researcher, Computer Science** — Boise State University | 2024 – 2025  
-   Trust-aware recommender systems and misinformation mitigation (see *Trust-aware Neural News Recommender* below).
-
--  **Graduate Researcher, Electrical & Computer Engineering (Doctoral Program)** — Boise State University | 2017 – 2020  
-   *  Research in printed and flexible electronics: graphene- and carbon-nanotube-based sensors and graphene inks; funded by an **IGEM fellowship**.
-   *  Equal-contribution first author, *"A Review of Inkjet Printed Graphene and Carbon Nanotubes Based Gas Sensors,"* **Sensors (MDPI), 2020** — **120+ citations**.
-   *  Co-inventor on a published patent application, "Modular Solar Cell Electrical Power Generating Layer for Low Earth Orbit Space Suits," US 2018/0342976 A1 (2018).
-   *  Passed the doctoral comprehensive exam; 4.0 GPA in graduate coursework including Deep Learning with Python, Digital IC Design, and Nanoscale Transport.
-   *  Transitioned to machine learning, completing an M.S. in Computer Science (2025).
-
--  **Assistant Professor, Electronics & Communication Engineering** — Nirma University, Ahmedabad | 2014 – 2015  
-   Taught Digital Electronics and Communication Systems; mentored undergraduate student projects.
-
-## Publications
-
--  M. S. Ahmed, **A. Chandnani**, F. Spezzano, "Reproducibility of FANAR: Adapting a Trust-based News Recommender for Fake News Mitigation to Public Benchmarks," under review at *ECIR 2027* (Reproducibility track).
--  T. Pandhi†, **A. Chandnani**†, H. Subbaraman, D. Estrada, "A Review of Inkjet Printed Graphene and Carbon Nanotubes Based Gas Sensors," *Sensors*, 20(19), 5642, 2020. [doi:10.3390/s20195642](https://doi.org/10.3390/s20195642) — † equal contribution; 120+ citations (Google Scholar)
--  **A. Chandnani** et al., "Design and Analysis of Piezoresistive Polyimide Nanocantilevers for Surface Stress Sensing Applications," *International Conference on MEMS and Sensors*, 2014.
--  S. Pederson, **A. Chandnani**, D. Butler, S. O'Kelley, "Modular Solar Cell Electrical Power Generating Layer for Low Earth Orbit Space Suits," US Patent Application Publication [US 2018/0342976 A1](https://patents.google.com/patent/US20180342976A1/en), 2018.
-
----
 
 ## Projects
 
@@ -158,3 +117,43 @@ My path into AI runs through research: doctoral work on printed sensors, then tr
 ---
 
 
+## Education
+
+-  **M.S., Artificial Intelligence** — The University of Texas at Austin, Expected Dec 2027  
+   Focus: Deep Learning Architectures, Scalable AI Systems, and MLOps Optimization.
+
+-  **M.S., Computer Science** — Boise State University, Aug 2025 | GPA: 4.0/4.0  
+   Research focused on Trust-Based AI, NLP, and Misinformation Mitigation using PyTorch.
+
+-  **M.Tech., Electrical Engineering** — Indian Institute of Technology (IIT) Gandhinagar | CPI: 9.2/10.0
+
+-  **B.E., Electronics & Communication Engineering** — Government Engineering College Bikaner (University of Rajasthan) | CGPA: 8.5/10.0
+
+-  **Certifications:** Linear Algebra & Calculus for ML (DeepLearning.AI), Introduction to Statistics (Stanford Online), Data Science with Python (Edureka), SQL, Python & Power BI (Codebasics)
+  
+---
+
+
+## Experience
+
+-  **Graduate Researcher, Computer Science** — Boise State University | 2024 – 2025  
+   Trust-aware recommender systems and misinformation mitigation (see *Trust-aware Neural News Recommender* below).
+
+-  **Graduate Researcher, Electrical & Computer Engineering (Doctoral Program)** — Boise State University | 2017 – 2020  
+   *  Research in printed and flexible electronics: graphene- and carbon-nanotube-based sensors and graphene inks; funded by an **IGEM fellowship**.
+   *  Equal-contribution first author, *"A Review of Inkjet Printed Graphene and Carbon Nanotubes Based Gas Sensors,"* **Sensors (MDPI), 2020** — **120+ citations**.
+   *  Co-inventor on a published patent application, "Modular Solar Cell Electrical Power Generating Layer for Low Earth Orbit Space Suits," US 2018/0342976 A1 (2018).
+   *  Passed the doctoral comprehensive exam; 4.0 GPA in graduate coursework including Deep Learning with Python, Digital IC Design, and Nanoscale Transport.
+   *  Transitioned to machine learning, completing an M.S. in Computer Science (2025).
+
+-  **Assistant Professor, Electronics & Communication Engineering** — Nirma University, Ahmedabad | 2014 – 2015  
+   Taught Digital Electronics and Communication Systems; mentored undergraduate student projects.
+
+## Publications
+
+-  M. S. Ahmed, **A. Chandnani**, F. Spezzano, "Reproducibility of FANAR: Adapting a Trust-based News Recommender for Fake News Mitigation to Public Benchmarks," under review at *ECIR 2027* (Reproducibility track).
+-  T. Pandhi†, **A. Chandnani**†, H. Subbaraman, D. Estrada, "A Review of Inkjet Printed Graphene and Carbon Nanotubes Based Gas Sensors," *Sensors*, 20(19), 5642, 2020. [doi:10.3390/s20195642](https://doi.org/10.3390/s20195642) — † equal contribution; 120+ citations (Google Scholar)
+-  **A. Chandnani** et al., "Design and Analysis of Piezoresistive Polyimide Nanocantilevers for Surface Stress Sensing Applications," *International Conference on MEMS and Sensors*, 2014.
+-  S. Pederson, **A. Chandnani**, D. Butler, S. O'Kelley, "Modular Solar Cell Electrical Power Generating Layer for Low Earth Orbit Space Suits," US Patent Application Publication [US 2018/0342976 A1](https://patents.google.com/patent/US20180342976A1/en), 2018.
+
+---
