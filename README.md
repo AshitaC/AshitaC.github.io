@@ -3,7 +3,7 @@
 
 **MS AI Student @ UT Austin**
 
-📧 [ashita0904@gmail.com](mailto:ashita0904@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/ashita-chandnani/) | 💻 [GitHub](https://github.com/AshitaC) | 📄 [Resume (PDF)](/assets/Ashita_Chandnani_Resume.pdf)
+📧 [ashita0904@gmail.com](mailto:ashita0904@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/ashita-chandnani/) | 💻 [GitHub](https://github.com/AshitaC)
 
 ---
 
