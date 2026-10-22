@@ -9,9 +9,9 @@
 
 
 ## About Me
-MS in Artificial Intelligence student at UT Austin, building on an MS in Computer Science from Boise State (4.0 GPA) and an M.Tech in Electrical Engineering from IIT Gandhinagar. I build generative AI systems (LLM agents with memory, RAG pipelines that cite their sources) and the MLOps that ships them to AWS.
+MS in Artificial Intelligence student at UT Austin, building on an MS in Computer Science from Boise State (4.0 GPA). I build generative AI systems (LLM agents with memory, RAG pipelines that cite their sources) and the MLOps that ships them to AWS.
 
-My path into AI runs through research, most recently on trust-aware recommender systems for fighting misinformation. **Seeking AI/ML engineering internships and roles for 2027.**
+I started out in electrical engineering and hardware sensor research before moving into AI. Most recently I worked on trust-aware recommender systems for fighting misinformation. **Seeking AI/ML engineering internships and roles for 2027.**
 
 ---
 
@@ -137,10 +137,7 @@ My path into AI runs through research, most recently on trust-aware recommender 
 ## Experience
 
 -  **Graduate Researcher, Computer Science** — Boise State University | 2024 – 2025  
-   Trust-aware recommender systems and misinformation mitigation (see *Trust-aware Neural News Recommender* below).
-
--  **Assistant Professor, Electronics & Communication Engineering** — Nirma University, Ahmedabad  
-   Taught Digital Electronics and Communication Systems; mentored undergraduate student projects.
+   Trust-aware recommender systems and misinformation mitigation (see *Trust-aware Neural News Recommender* above).
 
 ## Publications
 
