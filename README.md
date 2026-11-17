@@ -11,7 +11,7 @@
 ## About Me
 MS in Artificial Intelligence student at UT Austin, building on an MS in Computer Science from Boise State (4.0 GPA). I build generative AI systems (LLM agents with memory, RAG pipelines that cite their sources) and the MLOps that ships them to AWS.
 
-I started out in electrical engineering and hardware sensor research before moving into AI. Most recently I worked on trust-aware recommender systems for fighting misinformation. **Seeking AI/ML engineering internships and roles for 2027.**
+I started out in electrical engineering and hardware sensor research before moving into AI. Most recently I worked on trust-aware recommender systems for fighting misinformation. **Seeking 2027 AI and analytics roles.**
 
 ---
 
